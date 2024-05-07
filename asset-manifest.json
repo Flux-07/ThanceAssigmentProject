@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ThanceAssigmentProject/static/css/main.6b2f4a15.css",
+    "main.js": "/ThanceAssigmentProject/static/js/main.509526ae.js",
+    "static/media/ManropeSemiBold.ttf": "/ThanceAssigmentProject/static/media/ManropeSemiBold.310f108cc524df0e5ffc.ttf",
+    "static/media/ManropeMedium.ttf": "/ThanceAssigmentProject/static/media/ManropeMedium.08894ccb04665d1a9d53.ttf",
+    "static/media/ManropeRegular.ttf": "/ThanceAssigmentProject/static/media/ManropeRegular.a9b9e09fe6b69741f316.ttf",
+    "static/media/ManropeBold.ttf": "/ThanceAssigmentProject/static/media/ManropeBold.47f6d7143da9d8c0e480.ttf",
+    "static/media/CoveredByYourGrace.ttf": "/ThanceAssigmentProject/static/media/CoveredByYourGrace.7b6d6931a0ea2fa10236.ttf",
+    "index.html": "/ThanceAssigmentProject/index.html",
+    "main.6b2f4a15.css.map": "/ThanceAssigmentProject/static/css/main.6b2f4a15.css.map",
+    "main.509526ae.js.map": "/ThanceAssigmentProject/static/js/main.509526ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2f4a15.css",
+    "static/js/main.509526ae.js"
+  ]
+}
